@@ -1,0 +1,26 @@
+.nv {
+
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    background-color: #516cb8;
+    margin: 10px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background: #f4f4f4;
+    color: #333;
+}
+
+h1 {
+    background: #6986d5;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
