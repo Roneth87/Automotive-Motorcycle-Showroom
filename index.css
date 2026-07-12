@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+}
+
+.nv {
+    background-color: rgb(10, 162, 244);
+    padding: 25px;
+    font-size: 20px;
+}
+
+
+.nv a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    margin: 10px;
+}
+
+.he {
+    padding: 5px;
+    color: blue;
+}
+
+.p1 {
+    font-size: 25px;
+    font-style: italic;
+    background-color: beige;
+}
+
+.p2 {
+    font-size: 25px;
+    font-style: italic;
+    margin-left: 10px;
+    background-color: beige;
+}
+
+.p3 {
+    font-size: 14px;
+}
+
+.p4 {
+    font-size: 20px;
+    padding: 20px;
+}
+
+.foo {
+    background-color: rgb(18, 186, 198);
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+}
