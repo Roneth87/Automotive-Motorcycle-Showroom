@@ -14,3 +14,12 @@
     text-decoration: none;
     margin: 10px;
 }
+.he {
+    padding: 5px;
+    color: blue;
+}
+.p1 {
+    font-size: 25px;
+    font-style: italic;
+    background-color: beige;
+}
