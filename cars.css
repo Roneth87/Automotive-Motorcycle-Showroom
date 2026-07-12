@@ -24,3 +24,15 @@ h1 {
     padding: 20px;
     text-align: center;
 }
+
+
+h2 {
+    color: #1e3a8a;
+    margin: 20px;
+}
+
+p {
+    text-align: center;
+    margin: 20px;
+    font-size: 18px;
+}
